@@ -1,6 +1,0 @@
-# book buddy configuration
-
-
-VERBOSE = True
-LIBRARY_IN = '/home/emil/Books/unsorted/{title}.{_format}'
-DIVIDER="\n=========================================\n"
